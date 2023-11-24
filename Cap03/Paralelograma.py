@@ -1,0 +1,5 @@
+print("Bem-vindo ao calculador de area de paralelogramo")
+base = float(input("digite o comprimento da base: "))
+altura = float(input("digite a altura: "))
+area = float(altura * base)
+print("A área do paralelogramo é: ", area)
